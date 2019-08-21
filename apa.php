@@ -1,4 +1,4 @@
-<?
+<? echo "testing";
 include_once("includes/header.php");
 ini_set('session.gc_maxlifetime', 1800);
 ini_set("session.cookie_lifetime", 1800);
